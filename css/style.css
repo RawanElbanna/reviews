@@ -33,7 +33,6 @@
 .rr img{
     border-radius: 100%;
     height: 150px;
-    display: flex;
     /* float: right; */
 }
 @media(max-width:770px){
